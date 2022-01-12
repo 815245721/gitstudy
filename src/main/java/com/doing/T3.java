@@ -3,6 +3,7 @@ package com.doing;
 //ccc
 //注释3
 public class T3 {
+    private String password;
     private String name;
     public static void main(String[] args) {
 
