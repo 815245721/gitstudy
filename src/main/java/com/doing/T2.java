@@ -3,4 +3,6 @@ package com.doing;
 // T2  本地修改
 public class T2 {
 
+    private String name;
+
 }
