@@ -1,7 +1,7 @@
 package com.doing;
 //T3
 //ccc
-//注释3
+//注释3  中文乱码
 public class T3 {
     private String password;
     private String name;
