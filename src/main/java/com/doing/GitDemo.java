@@ -3,7 +3,7 @@ package com.doing;
 public class GitDemo {
     public static void main(String[] args) {
         //测试一下
-        System.out.println("86");
+        System.out.println("89");
 
         //提交1
         //提交3
